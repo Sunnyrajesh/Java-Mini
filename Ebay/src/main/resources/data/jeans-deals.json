@@ -1,0 +1,61 @@
+{
+  "categoryName": "Jeans",
+  "dealItems": [
+    {
+      "itemid": "2345678767",
+      "productTitle": "Blue American Eagle Jeans",
+      "size": "32",
+      "Brand": "American Eagle",
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~**********N/s-l225.jpg"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "49.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "50.0",
+        "discountAmount": {
+          "value": "24.99",
+          "currency": "USD"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "price": {
+        "value": "24.99",
+        "currency": "USD"
+      },
+      "stock": 4,
+      "dealStartDate": "2024-06-20T15:26:00Z",
+      "dealEndDate": "2024-12-20T14:59:59Z"
+    },
+    {
+      "itemid": "4567822189",
+      "productTitle": "Navy Blue Rare Rabbit Jeans",
+      "size": "32",
+      "Brand": "Rare Rabbit",
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~**********N/s-l225.jpg"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "39.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "25.0",
+        "discountAmount": {
+          "value": "09.99",
+          "currency": "USD"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "price": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "stock": 0,
+      "dealStartDate": "2024-06-20T15:26:00Z",
+      "dealEndDate": "2024-12-20T14:59:59Z"
+    }
+  ]
+}

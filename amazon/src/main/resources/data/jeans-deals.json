@@ -1,0 +1,61 @@
+{
+  "categoryName": "Jeans",
+  "dealItems": [
+    {
+      "itemid": "123456789",
+      "productTitle": "Blue Levis Jeans",
+      "size": "30",
+      "Brand": "Levis",
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~**********N/s-l225.jpg"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "29.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "17.0",
+        "discountAmount": {
+          "value": "5.0",
+          "currency": "USD"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "price": {
+        "value": "24.99",
+        "currency": "USD"
+      },
+      "stock": 4,
+      "dealStartDate": "2024-06-20T15:26:00Z",
+      "dealEndDate": "2024-12-20T14:59:59Z"
+    },
+    {
+      "itemid": "981235678",
+      "productTitle": "Black Men Slim Fit Mid Rise Jeans",
+      "size": "32",
+      "Brand": "Louis Philippe Jeans",
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~**********N/s-l225.jpg"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "29.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "50.0",
+        "discountAmount": {
+          "value": "14.99",
+          "currency": "USD"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "price": {
+        "value": "14.99",
+        "currency": "USD"
+      },
+      "stock": 3,
+      "dealStartDate": "2024-06-20T15:26:00Z",
+      "dealEndDate": "2024-12-20T14:59:59Z"
+    }
+  ]
+}
