@@ -1,0 +1,61 @@
+{
+  "categoryName": "Jeans",
+  "dealItems": [
+    {
+      "itemid": "777654321",
+      "productTitle": "Men Black Regular Jeans",
+      "size": "32",
+      "Brand": "H&M",
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~**********N/s-l225.jpg"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "29.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "40.0",
+        "discountAmount": {
+          "value": "11.99",
+          "currency": "USD"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "price": {
+        "value": "17.99",
+        "currency": "USD"
+      },
+      "stock": 4,
+      "dealStartDate": "2024-06-20T15:26:00Z",
+      "dealEndDate": "2024-12-20T14:59:59Z"
+    },
+    {
+      "itemid": "55666778231",
+      "productTitle": "Light Fade Clean Look Stretchable Jeans",
+      "size": "32",
+      "Brand": "Louis Philippe Jeans",
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/~**********N/s-l225.jpg"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "39.99",
+          "currency": "USD"
+        },
+        "discountPercentage": "25.0",
+        "discountAmount": {
+          "value": "09.99",
+          "currency": "USD"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "price": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "stock": 3,
+      "dealStartDate": "2024-06-20T15:26:00Z",
+      "dealEndDate": "2024-12-20T14:59:59Z"
+    }
+  ]
+}
